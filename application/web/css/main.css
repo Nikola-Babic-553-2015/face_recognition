@@ -1,0 +1,25 @@
+body {
+	overflow:hidden;
+}
+video {
+	width: 100%    !important;
+	height: auto   !important;
+}
+#square {
+	position: fixed;
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	border: 30px solid #000000;
+	border-image: url('..images/border.png') 34% repeat;
+	z-index: 200;
+	color: #fff;
+
+}
+#name {
+	position: relative;
+	bottom: 150px;
+	padding: 20px;
+	text-align:center;
+	background: #00a0bd;
+}

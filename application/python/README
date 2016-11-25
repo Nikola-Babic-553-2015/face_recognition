@@ -1,0 +1,15 @@
+To start app from web camera, type:
+python web_camera.py ../../rtsi.pkl
+
+vlc and web app currently not working...
+
+Folder/file structure:
+=Python modules:
+=*facedet
+=*facerec
+=*helper
+
+=Folder with some cool scripts
+=*other
+
+
